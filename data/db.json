@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Jancok",
+      "body": "Jancok kocok kocok",
+      "author": "Veks"
+    },
+    {
+      "id": 2,
+      "title": "Memek",
+      "body": "Memek Becek",
+      "author": "monkey"
+    }
+  ]
+}
